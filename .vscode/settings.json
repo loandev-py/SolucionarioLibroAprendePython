@@ -1,0 +1,15 @@
+{
+  "editor.fontSize": 14,
+  "terminal.integrated.fontSize": 14,
+  "markdown.preview.fontSize": 14,
+  "errorLens.fontSize": "14",
+  "chat.editor.fontSize": 14,
+  "scm.inputFontSize": 14,
+  "debug.console.fontSize": 14,
+  "editor.tabSize": 4,
+  "editor.fontFamily": "'Iosevka Nerd Font Mono', monospace",
+  "editor.codeLensFontFamily": "'Iosevka Nerd Font Mono', monospace",
+  "editor.inlayHints.fontFamily": "'Iosevka Nerd Font Mono', monospace",
+  "scm.inputFontFamily": "'Iosevka Nerd Font Mono', monospace",
+  "terminal.integrated.fontFamily": "'Iosevka Nerd Font Mono', monospace"
+}
