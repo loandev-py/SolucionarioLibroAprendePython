@@ -1,0 +1,14 @@
+click==8.1.7
+colorama==0.4.6
+Jinja2==3.1.4
+markdown-it-py==3.0.0
+MarkupSafe==2.1.5
+mdurl==0.1.2
+prettyconf==2.2.1
+pycheck @ git+http://get.pycheck.es@5587ffa6269373584ac9c0fbab85651baa5c8289
+Pygments==2.18.0
+rich==13.7.1
+setuptools==69.5.1
+shellingham==1.5.4
+typer==0.12.3
+typing_extensions==4.11.0
